@@ -46,7 +46,9 @@ local.properties
 # Nikhil Added
 *.classpath
 *.project
-
+/home/nwnb2078/Desktop/temporary/Demo_Git/Training/Developers/NikhilGujar/.classpath
+/home/nwnb2078/Desktop/temporary/Demo_Git/Training/Developers/NikhilGujar/.xml
+/home/nwnb2078/Desktop/temporary/Demo_Git/Training/Developers/NikhilGujar/.project
 
 # Build results
 
